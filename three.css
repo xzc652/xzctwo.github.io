@@ -1,0 +1,20 @@
+.one a {
+    color: rgb(14, 240, 18);
+    text-decoration: none;
+
+}
+
+.one {
+    background-color: #1578eb;
+    height: 700px;
+    width: 1200px;
+    margin: auto;
+}
+
+.two {
+    /* 左浮动 */
+    float: left;
+    width: 200px;
+    height: 700px;
+    background-color: blue;
+}

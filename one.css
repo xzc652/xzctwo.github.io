@@ -1,0 +1,13 @@
+.one a {
+    color: rgb(14, 240, 18);
+    /* 删除下滑线 */
+    text-decoration: none;
+}
+
+.one {
+    background-color: #0876b1;
+    height: 700px;
+    width: 1200px;
+    /* 水平居中 */
+    margin: auto;
+}

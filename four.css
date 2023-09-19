@@ -1,0 +1,31 @@
+.four a {
+    color: rgb(14, 240, 18);
+    text-decoration: none;
+
+}
+
+.one {
+    /* 中浮动 */
+    float: left;
+    background-color: #1578eb;
+    height: 500px;
+    width: 1200px;
+    margin: auto;
+    margin-top: 135px;
+}
+
+.two {
+    /* 小浮动 */
+    float: left;
+    width: 200px;
+    height: 500px;
+    background-color: #3d30ef;
+}
+
+.four {
+    /* 大盒子 */
+    background-color: blue;
+    width: 1200px;
+    height: 700px;
+    margin: auto;
+}

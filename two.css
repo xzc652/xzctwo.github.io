@@ -1,0 +1,26 @@
+a {
+    color: rgb(14, 240, 18);
+    text-decoration: none;
+
+}
+
+.one {
+    background-color: blue;
+    height: 100px;
+    width: 1200px;
+    margin: auto;
+}
+
+.two {
+    background-color: #1578eb;
+    height: 400px;
+    width: 1200px;
+    margin: auto;
+}
+
+.three {
+    background-color: blue;
+    height: 100px;
+    width: 1200px;
+    margin: auto;
+}
